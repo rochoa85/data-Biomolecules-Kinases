@@ -1,10 +1,10 @@
-# supp-ISCB-LA-2020-ID3
+# data-Biomolecules-Kinases
 
-Additional supplementary information:
+Additional data:
 
-**Virtual screening of potential kinase inhibitors within the PI3K/AKT pathway of Leishmania**
+**Identification of potential kinase inhibitors within the PI3K/AKT pathway of Leishmania species**
 
-Authors: Rodrigo Ochoa, Amaya Ortega-Pajares, Florencia A. Castello, Federico Serral, Darío Fernández Do Porto, Carlos Muskus
+Authors: Rodrigo Ochoa, Amaya Ortega-Pajares, Florencia A. Castello, Federico Serral, Darío Fernández Do Porto, Janny A. Villa-Pulgarin, Rubén E. Varela-M, Carlos Muskus
 
 *Content:*
 
